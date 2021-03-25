@@ -92,10 +92,10 @@
   resolved "https://registry.yarnpkg.com/@types/cors/-/cors-2.8.10.tgz#61cc8469849e5bcdd0c7044122265c39cec10cf4"
   integrity sha512-C7srjHiVG3Ey1nR6d511dtDkCEjxuN9W1HWAEjGq8kpcwmNM6JJkpC0xvabM7BXTG2wDq8Eu33iH9aQKa7IvLQ==
 
-"@types/discord-rpc@3.0.4":
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/@types/discord-rpc/-/discord-rpc-3.0.4.tgz#2b8c380ff17797b1408fd231b3a9944da515c331"
-  integrity sha512-Ee0vt82qcg05OeJrQZ/YN+NQwaBCnAul1rVLYaMLPkwR5f44WC3BpBQNvn5Z3Axu9szaVOHqXEDBI+uAXAiyrg==
+"@types/discord-rpc@3.0.5":
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/@types/discord-rpc/-/discord-rpc-3.0.5.tgz#16f03fb6ca9a111e4e1f69571e966d1ddf893160"
+  integrity sha512-rgv9W0XNZt437MoUrQfS6OPjTn1MI3Oix9l5aKyzma5Xf4MAiXbHTPUrL62HlHx6WuFMI58bQpJqoXjz+fHCuQ==
 
 "@types/engine.io@*":
   version "3.1.5"
