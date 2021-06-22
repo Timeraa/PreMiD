@@ -46,7 +46,7 @@
 		"axios": "0.21.1",
 		"chokidar": "3.5.1",
 		"discord-rpc": "github:discordjs/RPC",
-		"electron-store": "7.0.3",
+		"electron-store": "8.0.0",
 		"socket.io": "3.1.2",
 		"source-map-support": "^0.5.19"
 	},
