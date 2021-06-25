@@ -1,0 +1,52 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  assignees:
+  - Timeraa
+  ignore:
+  - dependency-name: "@types/node"
+    versions:
+    - 14.14.22
+    - 14.14.23
+    - 14.14.24
+    - 14.14.25
+    - 15.0.0
+  - dependency-name: electron
+    versions:
+    - 10.2.0
+    - 11.2.1
+    - 11.3.0
+    - 12.0.0
+    - 12.0.1
+    - 12.0.2
+    - 12.0.3
+    - 12.0.4
+  - dependency-name: socket.io
+    versions:
+    - 2.4.0
+    - 3.1.0
+    - 4.0.0
+  - dependency-name: typescript
+    versions:
+    - 4.1.3
+    - 4.2.2
+    - 4.2.3
+  - dependency-name: archiver
+    versions:
+    - 5.2.0
+  - dependency-name: axios
+    versions:
+    - 0.21.1
+  - dependency-name: "@types/archiver"
+    versions:
+    - 5.1.0
+  - dependency-name: "@types/fs-extra"
+    versions:
+    - 9.0.4
+  - dependency-name: prompts
+    versions:
+    - 2.4.0
